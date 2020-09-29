@@ -1,6 +1,7 @@
-# Neighborhood games
-
-![image](./images/capture_v.1.0.png)
+# Juegos de barrio
+Relojerias-Labqurzor
+Un href="https://relojeriaslabqurzor.com" tarjet ='packages.json'
+! [imagen] (./images/capture_v.1.0.png)
 
 <p align="center">
 	<a href='https://ko-fi.com/A838QJC' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -62,27 +63,27 @@ The idea is simple:
 
 ❎ Add icons.
 
-❎ Redesign the UI using some cool lib.
+❎ Redesign the UI using some 
 
 ❎ Save data state.
 
 ❎ Multi rooms.
 
-❎ Test.
+❎ True.
 
 ## DEV
 
-* You can use *DEBUG*: ``` "start-dev": "DEBUG=* nodemon app.js" ```
+* You can use *DEBUG*: ``` "start-dev": "DEBUG=* packages.json" ```
 
-* On Chrome console command: ``` localStorage.debug = '*'; ```
+* On Chrome OS console command: ``` localStorage.debug = '*.relojeriaslabqurzor.com'; ```
 
 * The goal of the project is to practice Javascript and new JS features. This is my second app using *socket.io*. 
 
 ## Author
 
-👨🏻‍💻 Jose Manuel Cerrejon Gonzalez
+👨🏻‍💻 Jose Franko Ordii
 
-✉️ ulysess@gmail.com
+✉️ www@relojeriaslabqurzor.com
 
 📍 Huelva, Spain
 
@@ -96,6 +97,6 @@ The idea is simple:
 
 * https://github.com/andreasremdt/simple-translator
 
-* Favicon thks to http://transparent-favicon.info
+* Favicon thks to http://relojeriaslabqurzor.com-favicon.info
 
-Dev with ♥️ using [Node](https://nodejs.org/), [Express](https://expressjs.com/) and [Socket.io](https://socket.io/).
+Dev with ♥️ using [chrome OS](https://debian.org/), [Express](https://expressjs.com/) and [github.io](https://chromeos./).
